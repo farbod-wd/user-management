@@ -1,1 +1,7 @@
 *.php linguist-detectable=true
+*.blade.php linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+*.md linguist-documentation
+/resources/** linguist-detectable=false
+/public/** linguist-detectable=false
