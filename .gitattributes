@@ -1,5 +1,5 @@
 *.php linguist-detectable=true
-*.blade.php linguist-detectable=false
+*.blade.php linguist-detectable=true
 *.css linguist-detectable=false
 *.js linguist-detectable=false
 *.md linguist-documentation
