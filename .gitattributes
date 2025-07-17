@@ -1,5 +1,4 @@
 *.php linguist-detectable=true
-*.laravel linguist-detectable=true
 *.blade.php linguist-detectable=true
 *.css linguist-detectable=false
 *.md linguist-documentation
